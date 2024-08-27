@@ -1,39 +1,49 @@
------BEGIN OPENSSH PRIVATE KEY-----
-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
-reGOleIssTzN/Z6RIy6ebJyh/n4=
------END OPENSSH PRIVATE KEY-----
+# Reads alignment
+
+## Process the reference and do alignments
+### Index the reference
+
+bwa index Aculy_genome.fa
+samtools faidx Aculy_genome.fa
+java -jar picard.jar CreateSequenceDictionary R=Aculy_genome.fa O=Aculy_genome.dict
+
+### Align the raw reads
+
+bwa mem -M -t 8 -R "@RG\tID:SampleID\tPL:ILLUMINA\tLB:SampleID\tSM:SampleID" Aculy_genome.fa SampleID_R1.fq.gz SampleID_R2.fq.gz -o SampleID.sam
+samtools view -bS SampleID.sam -o SampleID.bam
+
+### Sort and index of cleaned bam
+
+java -jar picard.jar SortSam INPUT=SampleID.bam OUTPUT=SampleID_sort.bam SORT_ORDER=coordinate
+java -jar picard.jar MarkDuplicates INPUT=SampleID_sort.bam OUTPUT=SampleID_dedup.bam METRICS_FILE=SampleID_dedup.metrics ASSUME_SORTED=true VALIDATION_STRINGENCY=SILENT CREATE_INDEX=true
+
+# Variant calling
+## Individual call
+
+gatk HaplotypeCaller -R Aculy_genome.fa -I SampleID_dedup.bam -ERC GVCF -O SampleID.g.vcf
+
+## Joint calling of all samples
+
+gatk CombineGVCFs -R Aculy_genome.fa -V Sample1.g.vcf -V Sample2.g.vcf ...... -V Sample37.g.vcf -O allSample.g.vcf.gz
+gatk GenotypeGVCFs -R Aculy_genome.fa -V allSample.g.vcf.gz  -O allSample.vcf.gz
+
+### Separate SNPs and Indels
+
+gatk SelectVariants -R Aculy_genome.fa -select-type SNP -V allSample.vcf.gz -O allSample.snp.raw.g.vcf.gz
+gatk SelectVariants -R Aculy_genome.fa -select-type INDEL -V allSample.vcf.gz -O allSample.indel.raw.g.vcf.gz
+
+### Hard filters to both SNPs and Indels
+
+gatk VariantFiltration -R Aculy_genome.fa -V allSample.snp.raw.g.vcf.gz -O allSamplefilter.snp.vcf.gz -filter 'QD < 2.0 || MQ < 40.0 || FS > 60.0 || SOR > 3.0' --filter-name 'ylffilter'
+gatk VariantFiltration -R Aculy_genome.fa -V allSample.indel.raw.g.vcf.gz -O allSamplefilter.indel.vcf.gz -filter 'QD < 2.0 || FS > 100.0 || SOR > 5.0' --filter-name 'ylffilter2'
+
+### Merge SNPs and Indels
+
+java -jar picard.jar MergeVcfs -I allSamplefilter.snp.vcf.gz -I allSamplefilter.indel.vcf.gz -O allSample.filter.vcf.gz
+
+### Filter the allSample vcf file
+bcftools filter -S . -e 'FMT/DP<3' -O v -o allSample.vcf allSamplefilter.vcf
+bcftools filter -e 'AC==0 || AC==AN' --SnpGap 10 allSample.vcf \
+| bcftools view -m2 -M2 -v snps -O v -o allSample.diploid.gap10.vcf
+vcftools --vcf allSample.diploid.gap10.vcf --mac 3 --max-missing 0.7 --recode --out allSample.diploid.gap10.mac3.miss0.7
+vcftools --vcf allSample.diploid.gap10.mac3.miss0.1.recode.vcf --missing-indv --out indv-miss
